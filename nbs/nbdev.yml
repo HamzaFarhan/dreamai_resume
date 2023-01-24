@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dreamai_resume"
+  site-url: "https://HamzaFarhan.github.io/dreamai_resume"
+  description: "Library for parsing job resumes."
+  repo-branch: main
+  repo-url: "https://github.com/HamzaFarhan/dreamai_resume"
